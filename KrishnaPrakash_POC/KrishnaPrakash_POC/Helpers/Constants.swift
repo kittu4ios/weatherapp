@@ -21,7 +21,7 @@ struct Constants {
     
     struct AppKeys {
         
-        static let ApiKey = "XXXXXXXXXXXXXXXXXX"
+        static let ApiKey = "b4e22c263a6a47d2c2cae911061354e3"
     }
 }
 ///Temparate types to display as Celsius, Fahrenheit
